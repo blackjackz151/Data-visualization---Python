@@ -1,4 +1,4 @@
-""" part 2 of dataviz tutorial, graphing the information we parsed"""
+""" part 2 - graphing the information we parsed"""
 
 from collections import Counter
 
