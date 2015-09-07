@@ -1,7 +1,6 @@
 # Data-visualization---Python
 
 Different visualizations of data on line graphs, bar graphs and a map.
-I used the newcoder.io tutorials to help me complete this project as I am still new to python.
 
 This project parses data from a CSV/Excel file, renders it in JSON,
 saves it to a database and then is visualised in graph form. It will also plot data on a map.
